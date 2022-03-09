@@ -13,7 +13,7 @@
 Simulation of 4 probability problems.
 1. diff-faces.py : We roll simultaneously 5 balanced dice.
 "What is the average number of different faces observed?"
-2. plane.py : A and B are planes That have 4 and 2 engines respectively.
+2. plane.py : A and B are planes that have 4 and 2 engines respectively.
 Each engine has a probability p of failing.
 "Which plane to choose?"
 3. same-birthday.py : From how many people the probability that at least 2 of 
