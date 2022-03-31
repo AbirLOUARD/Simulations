@@ -33,4 +33,3 @@ In your Terminal
 ```
 git clone https://github.com/AbirLOUARD/Simulations.git
 ```
-
